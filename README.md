@@ -16,4 +16,20 @@ Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
 
 Other Azure Technologies : App Service 
 
+![image](https://github.com/Sneka-k/future-ready-talent-internship/assets/98452869/a03e55cf-ac47-4c92-a2dd-f395cc56f7d6)
+
+![image](https://github.com/Sneka-k/future-ready-talent-internship/assets/98452869/55ad4def-f3e9-491b-8980-ff43fbad0c10)
+
+![image](https://github.com/Sneka-k/future-ready-talent-internship/assets/98452869/751ea238-6b90-4a58-805d-5d5eda4a30f8)
+
+![image](https://github.com/Sneka-k/future-ready-talent-internship/assets/98452869/66dd4375-4b4e-4f11-96fe-84d7ef95eb1b)
+
+![image](https://github.com/Sneka-k/future-ready-talent-internship/assets/98452869/7974dc9d-1c0e-4ae9-a651-33df966ec5ca)
+
+![image](https://github.com/Sneka-k/future-ready-talent-internship/assets/98452869/9279319b-5591-4398-8d49-139f765ab4a5)
+
+
+
+website link : https://jolly-stone-032706110.1.azurestaticapps.net/
+
 
