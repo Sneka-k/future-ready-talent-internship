@@ -28,6 +28,7 @@ Other Azure Technologies : App Service
 
 ![image](https://github.com/Sneka-k/future-ready-talent-internship/assets/98452869/9279319b-5591-4398-8d49-139f765ab4a5)
 
+![image](https://github.com/Sneka-k/future-ready-talent-internship/assets/98452869/cd4cd625-9f88-4660-9624-f9c15c7c32dc)
 
 
 website link : https://jolly-stone-032706110.1.azurestaticapps.net/
